@@ -28,7 +28,7 @@ Output:
 2 3 6 8 12 56
 
 */
-
+######### Just for learning github ###########
 #include <iostream>
 using namespace std;
 int arr[100];
